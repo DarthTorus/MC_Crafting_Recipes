@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "E#E",
+        "G#G"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_block"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        }
+    },
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    }
+}

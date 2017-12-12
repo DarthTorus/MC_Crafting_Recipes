@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#D#",
+        "ETE",
+        "GEG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_star"
+        },
+        "D": {
+            "item": "minecraft:dragon_head"
+        },
+        "E": {
+            "item": "minecraft:end_crystal"
+        },
+        "T": {
+            "item": "minecraft:egg"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

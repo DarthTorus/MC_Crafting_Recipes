@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#E#",
+        "EGE",
+        "#E#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald_block"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 1
+    }
+}
