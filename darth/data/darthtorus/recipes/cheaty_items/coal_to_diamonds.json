@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "CCC",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:fire_charge"
+        },
+        "P": {
+            "item": "minecraft:piston"
+        },
+        "C": {
+            "item": "minecraft:coal_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:diamond_ore",
+        "count": 3
+    }
+}

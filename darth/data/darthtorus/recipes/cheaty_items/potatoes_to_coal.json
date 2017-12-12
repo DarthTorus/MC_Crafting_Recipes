@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "VVV",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone_block"
+        },
+        "P": {
+            "item": "minecraft:piston"
+        },
+        "V": {
+            "item": "minecraft:poisonous_potato"
+        }
+    },
+    "result": {
+        "item": "minecraft:coal",
+        "count": 3
+    }
+}
