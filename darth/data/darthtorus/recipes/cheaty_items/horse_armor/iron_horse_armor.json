@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "  i",
+    "iSi",
+    "iNi"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "item": "minecraft:saddle"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_horse_armor",
+    "count": 1
+  },
+  "group": "horse_armor"
+}
