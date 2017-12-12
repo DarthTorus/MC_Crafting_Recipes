@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#G#",
+        "DWD",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sand"
+        },
+        "G": {
+            "item": "minecraft:gravel"
+        },
+        "D": {
+            "item": "minecraft:dirt"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:clay",
+        "count": 4
+    }
+}
