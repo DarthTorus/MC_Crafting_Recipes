@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#C#",
+        "BNB",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "C": {
+            "item": "minecraft:cactus_green"
+        },
+        "B": {
+            "item": "minecraft:black_concrete"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "L": {
+            "item": "minecraft:lime_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_ward",
+        "count": 1
+    },
+    "group" : "music_discs"
+}

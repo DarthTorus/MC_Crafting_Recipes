@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "BNB",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "P": {
+            "item": "minecraft:purple_dye"
+        },
+        "B": {
+            "item": "minecraft:black_concrete"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "G": {
+            "item": "minecraft:bone_meal"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_mellohi",
+        "count": 1
+    },
+    "group" : "music_discs"
+}

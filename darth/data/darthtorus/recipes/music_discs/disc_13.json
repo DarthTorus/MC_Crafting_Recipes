@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#D#",
+        "BNB",
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "D": {
+            "item": "minecraft:dandelion_yellow"
+        },
+        "B": {
+            "item": "minecraft:black_concrete"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "O": {
+            "item": "minecraft:bone_meal"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_13",
+        "count": 1
+    },
+    "group" : "music_discs"
+}

@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#B#",
+        "DND",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "B": {
+            "item": "minecraft:bone_meal"
+        },
+        "D": {
+            "item": "minecraft:black_concrete"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_strad",
+        "count": 1
+    },
+    "group" : "music_discs"
+}

@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#L#",
+        "BNB",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "L": {
+            "item": "minecraft:lime_dye"
+        },
+        "B": {
+            "item": "minecraft:black_concrete"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "D": {
+            "item": "minecraft:dandelion_yellow"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_far",
+        "count": 1
+    },
+    "group" : "music_discs"
+}

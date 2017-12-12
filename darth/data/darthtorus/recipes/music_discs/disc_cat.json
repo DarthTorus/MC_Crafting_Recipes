@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#L#",
+        "BNB",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "L": {
+            "item": "minecraft:lime_dye"
+        },
+        "B": {
+            "item": "minecraft:black_concrete"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_cat",
+        "count": 1
+    },
+    "group" : "music_discs"
+}

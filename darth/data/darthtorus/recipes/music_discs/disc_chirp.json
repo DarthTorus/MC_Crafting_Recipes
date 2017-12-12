@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#R#",
+        "BNB",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "R": {
+            "item": "minecraft:rose_red"
+        },
+        "B": {
+            "item": "minecraft:black_concrete"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_chirp",
+        "count": 1
+    },
+    "group" : "music_discs"
+}

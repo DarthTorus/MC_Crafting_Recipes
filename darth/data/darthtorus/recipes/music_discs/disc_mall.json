@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "BNB",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "P": {
+            "item": "minecraft:purple_dye"
+        },
+        "B": {
+            "item": "minecraft:black_concrete"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "L": {
+            "item": "minecraft:lapis_lazuli"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_mall",
+        "count": 1
+    },
+    "group" : "music_discs"
+}
