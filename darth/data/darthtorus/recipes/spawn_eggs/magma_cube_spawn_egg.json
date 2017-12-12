@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "CMC",
+        "MEM",
+        "CMC"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:magma_cream"
+        },
+        "M": {
+            "item": "minecraft:magma_block"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:magma_cube_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

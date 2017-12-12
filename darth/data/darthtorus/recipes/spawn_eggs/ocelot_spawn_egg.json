@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#C#",
+        "CEC",
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:salmon"
+        },
+        "C": {
+            "item": "minecraft:cod"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:ocelot_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

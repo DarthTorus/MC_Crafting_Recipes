@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#I#",
+        "LEL",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "I": {
+            "item": "minecraft:iron_sword"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:vex_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

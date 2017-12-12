@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "GEL",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "P": {
+            "item": "minecraft:porkchop"
+        },
+        "G": {
+            "item": "minecraft:golden_sword"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "L": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:zombie_pigman_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

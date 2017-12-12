@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#M#",
+        "MEM",
+        "#M#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wheat"
+        },
+        "M": {
+            "item": "minecraft:mutton"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:sheep_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

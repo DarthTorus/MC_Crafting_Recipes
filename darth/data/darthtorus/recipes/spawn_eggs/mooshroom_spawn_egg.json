@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RER",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "R": {
+            "item": "minecraft:red_mushroom"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:mooshroom_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

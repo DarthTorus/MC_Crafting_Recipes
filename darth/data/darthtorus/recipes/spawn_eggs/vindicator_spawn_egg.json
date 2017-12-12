@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#I#",
+        "#E#",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "I": {
+            "item": "minecraft:iron_axe"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:vindication_illager_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

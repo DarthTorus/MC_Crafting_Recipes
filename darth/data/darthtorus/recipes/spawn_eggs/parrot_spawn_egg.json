@@ -1,0 +1,72 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "FDF",
+    "DED",
+    "FDF"
+  ],
+  "key": {
+    "D": [
+      {
+        "item": "minecraft:pink_dye"
+      },
+      {
+        "item": "minecraft:magenta_dye"
+      },
+      {
+        "item": "minecraft:rose_red"
+      },
+      {
+        "item": "minecraft:orange_dye"
+      },
+      {
+        "item": "minecraft:dandelion_yellow"
+      },
+      {
+        "item": "minecraft:lime_dye"
+      },
+      {
+        "item": "minecraft:cactus_green"
+      },
+      {
+        "item": "minecraft:cyan_dye"
+      },
+      {
+        "item": "minecraft:light_blue_dye"
+      },
+      {
+        "item": "minecraft:lapis_lazuli"
+      },
+      {
+        "item": "minecraft:purple_dye"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:light_gray_dye"
+      },
+      {
+        "item": "minecraft:gray_dye"
+      },
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "item": "minecraft:cocoa_beans"
+      }
+    ],
+
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "minecraft:parrot_spawn_egg",
+    "count": 1
+  },
+  "group": "spawn_eggs"
+}

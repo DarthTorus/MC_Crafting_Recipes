@@ -1,0 +1,37 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:potion"
+        },
+        {
+            "item": "minecraft:nether_wart"
+        },
+        {
+            "item": "minecraft:spider_eye"
+        },
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:fermented_spider_eye"
+        },
+        {
+            "item": "minecraft:speckled_melon"
+        },
+        {
+            "item": "minecraft:ghast_tear"
+        },
+        {
+            "item": "minecraft:golden_carrot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:witch_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

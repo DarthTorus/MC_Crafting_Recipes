@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "CEC",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sponge"
+        },
+        "P": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "C": {
+            "item": "minecraft:cod"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:elder_guardian_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

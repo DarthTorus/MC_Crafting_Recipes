@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SES",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:spider_eye"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:cave_spider_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

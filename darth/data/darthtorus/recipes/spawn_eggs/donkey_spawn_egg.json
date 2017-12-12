@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " # ",
+        "CEC",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:saddle"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:donkey_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

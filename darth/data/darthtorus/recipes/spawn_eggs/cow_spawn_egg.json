@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#B#",
+        "LEL",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wheat"
+        },
+        "B": {
+            "item": "minecraft:beef"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:cow_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

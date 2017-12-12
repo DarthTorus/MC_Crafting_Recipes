@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#I#",
+        "IEI",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_block"
+        },
+        "I": {
+            "item": "minecraft:ice"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:stray_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

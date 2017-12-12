@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#W#",
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone"
+        },
+        "W": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:wither_skeleton_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}

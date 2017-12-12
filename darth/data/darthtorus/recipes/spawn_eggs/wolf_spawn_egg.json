@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#C#",
+        "CEC",
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone"
+        },
+        "C": {
+            "item": "minecraft:cooked_beef"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:wolf_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_eggs"
+}
