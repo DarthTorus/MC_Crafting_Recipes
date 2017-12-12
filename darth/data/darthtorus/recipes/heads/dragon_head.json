@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "EPE",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "P": {
+            "item": "minecraft:player_head"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_head",
+        "count": 1
+    },
+    "group": "mob_heads"
+}

@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " # ",
+        "BPB",
+        " G "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_block"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "P": {
+            "item": "minecraft:player_head"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        }
+    },
+    "result": {
+        "item": "minecraft:skeleton_skull",
+        "count": 1
+    },
+    "group": "mob_heads"
+}

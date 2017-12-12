@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " # ",
+        "#P#",
+        " G "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "P": {
+            "item": "minecraft:player_head"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        }
+    },
+    "result": {
+        "item": "minecraft:zombie_head",
+        "count": 1
+    },
+    "group": "mob_heads"
+}
