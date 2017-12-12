@@ -1,0 +1,23 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "First Potion",
+        "description": "It doesn't do much, but you've begun your journey as an apothecary",
+        "icon": {
+            "item": "minecraft:glass_bottle"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "began_brewing": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:water"
+            }
+        }
+    },
+    "parent": "darthtorus:apothecary"
+}

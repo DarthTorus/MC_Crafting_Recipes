@@ -1,0 +1,87 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "Farmer",
+        "description": "Breed all farm non-hostile animals",
+        "icon": {
+            "item": "minecraft:wheat"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "moo": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+                "child": {
+                    "type": "minecraft:cow"
+                },
+                "parent": {
+                    "type": "minecraft:cow"
+                },
+                "partner": {
+                    "type": "minecraft:cow"
+                }
+            }
+        },
+        "cluck": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+                "child": {
+                    "type": "minecraft:chicken"
+                },
+                "parent": {
+                    "type": "minecraft:chicken"
+                },
+                "partner": {
+                    "type": "minecraft:chicken"
+                }
+            }
+        },
+        "oink": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+                "child": {
+                    "type": "minecraft:pig"
+                },
+                "parent": {
+                    "type": "minecraft:pig"
+                },
+                "partner": {
+                    "type": "minecraft:pig"
+                }
+            }
+        },
+        "baaa": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+                "child": {
+                    "type": "minecraft:sheep"
+                },
+                "parent": {
+                    "type": "minecraft:sheep"
+                },
+                "partner": {
+                    "type": "minecraft:sheep"
+                }
+            }
+        },
+        "hop": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+                "child": {
+                    "type": "minecraft:rabbit"
+                },
+                "parent": {
+                    "type": "minecraft:rabbit"
+                },
+                "partner": {
+                    "type": "minecraft:rabbit"
+                }
+            }
+        }
+    },
+    "parent": "darthtorus:root"
+}

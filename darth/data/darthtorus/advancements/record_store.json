@@ -1,0 +1,137 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "Record Store",
+        "description": "Craft (or find. Like how would I know?) all 12 Music Discs",
+        "icon": {
+            "item": "minecraft:music_disc_cat"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "disc_11": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_11"
+                    }
+                ]
+            }
+        },
+        "disc_13": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_13"
+                    }
+                ]
+            }
+        },
+        "disc_blocks": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_blocks"
+                    }
+                ]
+            }
+        },
+        "disc_cat": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_cat"
+                    }
+                ]
+            }
+        },
+        "disc_chirp": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_chirp"
+                    }
+                ]
+            }
+        },
+        "disc_far": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_far"
+                    }
+                ]
+            }
+        },
+        "disc_mall": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_mall"
+                    }
+                ]
+            }
+        },
+        "disc_mellohi": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_mellohi"
+                    }
+                ]
+            }
+        },
+        "disc_stal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_stal"
+                    }
+                ]
+            }
+        },
+        "disc_strad": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_strad"
+                    }
+                ]
+            }
+        },
+        "disc_wait": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_wait"
+                    }
+                ]
+            }
+        },
+        "disc_ward": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:music_disc_ward"
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "darthtorus:root"
+}

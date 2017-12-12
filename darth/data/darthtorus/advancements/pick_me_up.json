@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "Quick Pick-Me-Up",
+        "description": "Ya look like you need some health. Brew a potion! Double shot!",
+        "icon": {
+            "item": "minecraft:speckled_melon"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "health": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:strong_healing"
+            }
+        }
+    },
+    "rewards": {
+        "function": "5"
+    },
+    "parent": "darthtorus:first_potion"
+}

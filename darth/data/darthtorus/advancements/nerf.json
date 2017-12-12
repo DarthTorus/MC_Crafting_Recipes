@@ -1,0 +1,44 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "Nerf Herder",
+        "description": "Brew all the debuff potions",
+        "icon": {
+            "item": "minecraft:spider_eye"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "poison": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:poison"
+            }
+        },
+        "slug": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:slowness"
+            }
+        },
+        "pansy": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:weakness"
+            }
+        },
+        "damaged": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:harming"
+            }
+        }
+    },
+    "rewards": {
+        "function": "20"
+    },
+    "parent": "darthtorus:first_potion"
+}

@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "Need More Air",
+        "description": "I can't breathe well in this ocean. Brew breathing potion, perhaps?",
+        "icon": {
+            "item": "minecraft:pufferfish"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "breathe": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:water_breathing"
+            }
+        }
+    },
+    "rewards": {
+        "function": "5"
+    },
+    "parent": "darthtorus:first_potion"
+}

@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "Eternal Life",
+        "description": "Brew the elixir of life. Just kidding. You need a regeneration potion",
+        "icon": {
+            "item": "minecraft:ghast_tear"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "regen": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:regeneration"
+            }
+        }
+    },
+    "rewards": {
+        "function": "5"
+    },
+    "parent": "darthtorus:first_potion"
+}

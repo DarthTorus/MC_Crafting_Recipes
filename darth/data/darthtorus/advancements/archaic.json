@@ -1,0 +1,76 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "Archaeologist",
+        "description": "Find every structure",
+        "icon": {
+            "item": "minecraft:nether_brick"
+        },
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "skywalker": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "the_end",
+                "feature": "EndCity"
+            }
+        },
+        "worshipper": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "feature": "Temple"
+            }
+        },
+        "hellbound": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "the_nether",
+                "feature": "Fortress"
+            }
+        },
+        "diver": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "feature": "Monument"
+            }
+        },
+        "miner": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "feature": "Mineshaft"
+            }
+        },
+        "dungeoneer": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "feature": "Stronghold"
+            }
+        },
+        "settler": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "feature": "Mansion"
+            }
+        },
+        "Peddler": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "feature": "Village"
+            }
+        }
+    },
+    "rewards": {
+        "experience": 2000
+    },
+    "parent": "darthtorus:root"
+}

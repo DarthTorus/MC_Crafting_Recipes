@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "Keen Sight",
+        "description": "Hindsight is 20/20. Avoid that by brewing night vision",
+        "icon": {
+            "item": "minecraft:golden_carrot"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "night": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:night_vision"
+            }
+        }
+    },
+    "rewards": {
+        "function": "5"
+    },
+    "parent": "darthtorus:first_potion"
+}
