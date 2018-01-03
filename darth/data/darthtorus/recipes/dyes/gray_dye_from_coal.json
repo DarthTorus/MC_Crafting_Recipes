@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        [{
+            "item": "minecraft:charcoal"
+        },
+        {
+            "item": "minecraft:coal"
+        }],
+        [{
+            "item": "minecraft:charcoal"
+        },
+        {
+            "item": "minecraft:coal"
+        }]
+        {
+            "item": "minecraft:bone_meal"
+        }
+    ],
+    "result": {
+        "item": "minecraft:gray_dye",
+        "count": 1
+    },
+    "group": "custom_dyes"
+}
